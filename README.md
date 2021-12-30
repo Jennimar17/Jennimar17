@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeniffer</h1>
 <h3 align="center">A fullstack developer, passionate about design, medicine and compulsive storyteller</h3>
 
-[![HitCount](http://hits.dwyl.com/jennimar17/jennimar17.svg?style=flat-square)](http://hits.dwyl.com/jennimar17/jennimar17)
+![Hits](https://hitcounter.pythonanywhere.com/contar/tag.svg?url=https%3A%2F%2Fgithub.com%2Fjennimar17%2Fjennimar17)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
