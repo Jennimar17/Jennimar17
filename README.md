@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeniffer</h1>
 <h3 align="center">A fullstack developer, passionate about design, medicine and compulsive storyteller</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jennimar17&label=Profile%20views&color=0e75b6&style=flat" alt="jennimar17" /> </p>
+[![HitCount](http://hits.dwyl.com/jennimar17/jennimar17.svg?style=flat-square)](http://hits.dwyl.com/jennimar17/jennimar17)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
