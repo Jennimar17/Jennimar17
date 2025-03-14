@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeniffer</h1>
-<h3 align="center">A fullstack developer, passionate about design, medicine and compulsive storyteller</h3>
+<h4 align="center">With almost 4 years of experience as a web developer, I merge my passion for web design and frontend development to create intuitive interfaces and exceptional user experiences. </h4>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -7,6 +7,7 @@
 <a href="https://linkedin.com/in/jeniffer-corona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeniffer-corona" height="30" width="40" /></a>
 <a href="https://fb.com/jennimar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jennimar17" height="30" width="40" /></a>
 <a href="https://instagram.com/jennimar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jennimar17" height="30" width="40" /></a>
+<a href="https://dribbble.com/Jennimar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jennimar17" height="30" width="40" /></a>
 <a href="https://www.behance.net/jeniffehurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jeniffehurtado" height="30" width="40" /></a>
 </p>
 
