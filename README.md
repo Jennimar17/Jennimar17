@@ -2,28 +2,30 @@
 
 <!-- Typing animation header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F98A3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Jeniffer+%F0%9F%91%8B;Full-Stack+Developer+%26+UI+Enthusiast;Building+SaaS+Products+from+Argentina;Turning+ideas+into+pixel-perfect+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F98A3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeniffer+%F0%9F%91%8B;Fullstack+Developer+%26+UI+Designer;Aria+Financial+Group+%7C+Miami;Pixel-perfect+%26+scalable+web+apps" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p>
-  <strong>Full-Stack Developer</strong> · <em>~4 años de experiencia</em> · UI/UX & Product Builder<br/>
-  Actualmente en <a href="https://ualabee.com" target="_blank">Ualabee</a> · Construyendo
-  <a href="https://github.com/Jennimar17" target="_blank">SaaS products & web apps</a> desde Argentina 🇦🇷
+  <strong>Fullstack Developer &amp; UI/UX Designer</strong> &nbsp;·&nbsp; 5+ years of experience &nbsp;·&nbsp; Open to Remote
 </p>
 
-<!-- Badges row -->
+<!-- Social badges row -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Jennimar17&style=flat-square&color=4F98A3&label=Profile+Views" alt="profile views"/>
   <a href="https://linkedin.com/in/jeniffer-corona" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.behance.net/jeniffehurtado" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://dribbble.com/Jennimar17" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>&nbsp;
+  <a href="https://www.jenndev.com.ar" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-jenndev.com.ar-4F98A3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge" alt="Open to Work"/>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Jennimar17&style=flat-square&color=4F98A3&label=Profile+Views" alt="profile views"/>
 
 </div>
 
@@ -31,93 +33,64 @@
 
 ## 🚀 About Me
 
-```ts
+```typescript
 const jeniffer = {
-  role:       "Full-Stack Developer & UI/UX Designer",
-  company:    "Ualabee",
-  location:   "San José, Mendoza, Argentina 🇦🇷",
-  focus:      ["SaaS Products", "Web Apps", "Design Systems", "Automation"],
-  currentlyBuilding: ["PresencIA.ar", "OpenClaw", "Industrial Dotaciones"],
-  stack:      ["React", "Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
-  funFact:    "I care as much about pixel perfection as I do about clean code 🎨",
+  role:      "Fullstack Developer & UI/UX Designer",
+  company:   "Aria Financial Group · Miami, FL",
+  focus:     ["SaaS Products", "Web Apps", "Design Systems", "Fintech"],
+  stack:     ["React", "Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
+  funFact:   "I care as much about pixel perfection as I do about clean code 🎨",
 };
 ```
 
+Fullstack developer with 5+ years building responsive web and mobile applications that combine technical quality with outstanding user experience. Specialized in frontend and fullstack development — I work with product-oriented teams to deliver scalable, high-quality features. Experienced in **fintech** (Aria Financial Group, Zignaly), **urban mobility** (Ualabee), and **ed-tech** (Coderhouse), always in remote, multicultural, and agile environments.
+
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"/><br/><sub>React</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="36" height="36" alt="Next.js"/><br/><sub>Next.js</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript"/><br/><sub>TypeScript</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind"/><br/><sub>Tailwind CSS</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="36" height="36" alt="Supabase"/><br/><sub>Supabase</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" height="36" alt="Figma"/><br/><sub>Figma</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/vercel/white" width="36" height="36" alt="Vercel"/><br/><sub>Vercel</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript"/><br/><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="Node.js"/><br/><sub>Node.js</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/sass/CC6699" width="36" height="36" alt="Sass"/><br/><sub>Sass</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"/><br/><sub>Git</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/redux/764ABC" width="36" height="36" alt="Redux"/><br/><sub>Redux</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/express/white" width="36" height="36" alt="Express"/><br/><sub>Express</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="36" height="36" alt="Illustrator"/><br/><sub>Illustrator</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="36" height="36" alt="Photoshop"/><br/><sub>Photoshop</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Frontend | Backend | Design | DevOps |
+|----------|---------|--------|--------|
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="24"/> React | <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="24"/> Node.js | <img src="https://cdn.simpleicons.org/figma/F24E1E" width="24"/> Figma | <img src="https://cdn.simpleicons.org/vercel/white" width="24"/> Vercel |
+| <img src="https://cdn.simpleicons.org/nextdotjs/white" width="24"/> Next.js | <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="24"/> Supabase | <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="24"/> Illustrator | <img src="https://cdn.simpleicons.org/docker/2496ED" width="24"/> Docker |
+| <img src="https://cdn.simpleicons.org/typescript/3178C6" width="24"/> TypeScript | <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="24"/> PostgreSQL | <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="24"/> Photoshop | <img src="https://cdn.simpleicons.org/git/F05032" width="24"/> Git |
+| <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="24"/> Tailwind CSS | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="24"/> MongoDB | | <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="24"/> CI/CD |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jennimar17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=CDD6F4" alt="Jeniffer's GitHub stats"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennimar17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&text_color=CDD6F4&langs_count=8" alt="Top Languages"/>
+
+<a href="https://github.com/Jennimar17">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jennimar17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=FFFFFF" alt="Jeniffer's GitHub Stats" />
+</a>
+<a href="https://github.com/Jennimar17">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennimar17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&text_color=FFFFFF" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Jennimar17">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jennimar17&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F98A3&ring=4F98A3&fire=FF6B6B&currStreakLabel=4F98A3" alt="GitHub Streak" />
+</a>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jennimar17&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F98A3&ring=4F98A3&fire=FF6B6B&currStreakLabel=4F98A3" alt="GitHub Streak"/>
-</div>
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennimar17&bg_color=0D1117&color=4F98A3&line=4F98A3&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+<a href="https://github.com/Jennimar17">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennimar17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F98A3&line=4F98A3&point=FFFFFF&area=true" alt="Contribution Graph" />
+</a>
+
 </div>
 
 ---
@@ -126,26 +99,13 @@ const jeniffer = {
 
 <div align="center">
 
-[![PresencIA](https://github-readme-stats.vercel.app/api/pin/?username=Jennimar17&repo=presencia-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=CDD6F4)](https://github.com/Jennimar17)
-[![Industrial Dotaciones](https://github-readme-stats.vercel.app/api/pin/?username=Jennimar17&repo=industrial-dotaciones&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=CDD6F4)](https://github.com/Jennimar17)
+[![PresencIA](https://github-readme-stats.vercel.app/api/pin/?username=Jennimar17&repo=presencia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=FFFFFF)](https://github.com/Jennimar17)
+[![OpenClaw](https://github-readme-stats.vercel.app/api/pin/?username=Jennimar17&repo=openclaw&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=FFFFFF)](https://github.com/Jennimar17)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [jeniffer-corona](https://linkedin.com/in/jeniffer-corona) |
-| 🎨 Behance | [jeniffehurtado](https://www.behance.net/jeniffehurtado) |
-| 🏀 Dribbble | [Jennimar17](https://dribbble.com/Jennimar17) |
-| 📸 Instagram | [@jennimar17](https://instagram.com/jennimar17) |
-
-<br/>
-
-<em>"I turn coffee into code and design into experiences." ☕</em>
-
+  <sub>Built with 💙 by Jeniffer &nbsp;·&nbsp; <a href="https://www.jenndev.com.ar">jenndev.com.ar</a></sub>
 </div>
