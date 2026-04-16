@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Typing animation header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F98A3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeniffer+%F0%9F%91%8B;Fullstack+Developer+%26+UI+Designer;Aria+Financial+Group+%7C+Miami;Pixel-perfect+%26+scalable+web+apps" alt="Typing SVG" />
 </a>
@@ -8,10 +7,9 @@
 <br/>
 
 <p>
-  <strong>Fullstack Developer &amp; UI/UX Designer</strong> &nbsp;·&nbsp; 5+ years of experience &nbsp;·&nbsp; Open to Remote
+  <strong>Fullstack Developer &amp; UI/UX Designer</strong> &nbsp;&middot;&nbsp; 5+ years of experience &nbsp;&middot;&nbsp; Open to Remote
 </p>
 
-<!-- Social badges row -->
 <p>
   <a href="https://linkedin.com/in/jeniffer-corona" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -67,7 +65,7 @@ Fullstack developer with 5+ years building responsive web and mobile application
 <div align="center">
 
 <a href="https://github.com/Jennimar17">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jennimar17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=FFFFFF" alt="Jeniffer's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jennimar17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=FFFFFF" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Jennimar17">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennimar17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&text_color=FFFFFF" alt="Top Languages" />
@@ -87,25 +85,27 @@ Fullstack developer with 5+ years building responsive web and mobile application
 
 <div align="center">
 
-<a href="https://github.com/Jennimar17">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennimar17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F98A3&line=4F98A3&point=FFFFFF&area=true" alt="Contribution Graph" />
-</a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jennimar17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F98A3&line=4F98A3&point=FFFFFF&area=true&area_color=4F98A3)](https://github.com/Jennimar17)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🔗 Connect with me
 
 <div align="center">
 
-[![PresencIA](https://github-readme-stats.vercel.app/api/pin/?username=Jennimar17&repo=presencia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=FFFFFF)](https://github.com/Jennimar17)
-[![OpenClaw](https://github-readme-stats.vercel.app/api/pin/?username=Jennimar17&repo=openclaw&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=FFFFFF)](https://github.com/Jennimar17)
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [linkedin.com/in/jeniffer-corona](https://linkedin.com/in/jeniffer-corona) |
+| 🎨 Dribbble | [dribbble.com/Jennimar17](https://dribbble.com/Jennimar17) |
+| 🌐 Portfolio | [jenndev.com.ar](https://www.jenndev.com.ar) |
+| 👨‍💻 GitHub | [github.com/Jennimar17](https://github.com/Jennimar17) |
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with 💙 by Jeniffer &nbsp;·&nbsp; <a href="https://www.jenndev.com.ar">jenndev.com.ar</a></sub>
+  <sub>Built with 💙 by Jeniffer &nbsp;&middot;&nbsp; <a href="https://www.jenndev.com.ar">jenndev.com.ar</a></sub>
 </div>
