@@ -1,15 +1,151 @@
-<h1 align="center">Hi 👋, I'm Jeniffer</h1>
-<h4 align="center">With almost 4 years of experience as a web developer, I merge my passion for web design and frontend development to create intuitive interfaces and exceptional user experiences. </h4>
+<div align="center">
 
+<!-- Typing animation header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F98A3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Jeniffer+%F0%9F%91%8B;Full-Stack+Developer+%26+UI+Enthusiast;Building+SaaS+Products+from+Argentina;Turning+ideas+into+pixel-perfect+apps" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jeniffer-corona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeniffer-corona" height="30" width="40" /></a>
-<a href="https://fb.com/jennimar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jennimar17" height="30" width="40" /></a>
-<a href="https://instagram.com/jennimar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jennimar17" height="30" width="40" /></a>
-<a href="https://dribbble.com/Jennimar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jennimar17" height="30" width="40" /></a>
-<a href="https://www.behance.net/jeniffehurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jeniffehurtado" height="30" width="40" /></a>
+<br/>
+
+<p>
+  <strong>Full-Stack Developer</strong> · <em>~4 años de experiencia</em> · UI/UX & Product Builder<br/>
+  Actualmente en <a href="https://ualabee.com" target="_blank">Ualabee</a> · Construyendo
+  <a href="https://github.com/Jennimar17" target="_blank">SaaS products & web apps</a> desde Argentina 🇦🇷
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<!-- Badges row -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Jennimar17&style=flat-square&color=4F98A3&label=Profile+Views" alt="profile views"/>
+  <a href="https://linkedin.com/in/jeniffer-corona" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.behance.net/jeniffehurtado" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="Open to Work"/>
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```ts
+const jeniffer = {
+  role:       "Full-Stack Developer & UI/UX Designer",
+  company:    "Ualabee",
+  location:   "San José, Mendoza, Argentina 🇦🇷",
+  focus:      ["SaaS Products", "Web Apps", "Design Systems", "Automation"],
+  currentlyBuilding: ["PresencIA.ar", "OpenClaw", "Industrial Dotaciones"],
+  stack:      ["React", "Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
+  funFact:    "I care as much about pixel perfection as I do about clean code 🎨",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"/><br/><sub>React</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="36" height="36" alt="Next.js"/><br/><sub>Next.js</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript"/><br/><sub>TypeScript</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind"/><br/><sub>Tailwind CSS</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="36" height="36" alt="Supabase"/><br/><sub>Supabase</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" height="36" alt="Figma"/><br/><sub>Figma</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/vercel/white" width="36" height="36" alt="Vercel"/><br/><sub>Vercel</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript"/><br/><sub>JavaScript</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="Node.js"/><br/><sub>Node.js</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/sass/CC6699" width="36" height="36" alt="Sass"/><br/><sub>Sass</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"/><br/><sub>Git</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/redux/764ABC" width="36" height="36" alt="Redux"/><br/><sub>Redux</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/express/white" width="36" height="36" alt="Express"/><br/><sub>Express</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="36" height="36" alt="Illustrator"/><br/><sub>Illustrator</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="36" height="36" alt="Photoshop"/><br/><sub>Photoshop</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jennimar17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=CDD6F4" alt="Jeniffer's GitHub stats"/>
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennimar17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&text_color=CDD6F4&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jennimar17&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F98A3&ring=4F98A3&fire=FF6B6B&currStreakLabel=4F98A3" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennimar17&bg_color=0D1117&color=4F98A3&line=4F98A3&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![PresencIA](https://github-readme-stats.vercel.app/api/pin/?username=Jennimar17&repo=presencia-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=CDD6F4)](https://github.com/Jennimar17)
+[![Industrial Dotaciones](https://github-readme-stats.vercel.app/api/pin/?username=Jennimar17&repo=industrial-dotaciones&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=CDD6F4)](https://github.com/Jennimar17)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [jeniffer-corona](https://linkedin.com/in/jeniffer-corona) |
+| 🎨 Behance | [jeniffehurtado](https://www.behance.net/jeniffehurtado) |
+| 🏀 Dribbble | [Jennimar17](https://dribbble.com/Jennimar17) |
+| 📸 Instagram | [@jennimar17](https://instagram.com/jennimar17) |
+
+<br/>
+
+<em>"I turn coffee into code and design into experiences." ☕</em>
+
+</div>
